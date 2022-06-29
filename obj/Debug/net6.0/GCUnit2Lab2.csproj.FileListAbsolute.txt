@@ -1,0 +1,15 @@
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\bin\Debug\net6.0\GCUnit2Lab2.exe
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\bin\Debug\net6.0\GCUnit2Lab2.deps.json
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\bin\Debug\net6.0\GCUnit2Lab2.runtimeconfig.json
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\bin\Debug\net6.0\GCUnit2Lab2.dll
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\bin\Debug\net6.0\GCUnit2Lab2.pdb
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.csproj.AssemblyReference.cache
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.AssemblyInfoInputs.cache
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.AssemblyInfo.cs
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.csproj.CoreCompileInputs.cache
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.dll
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\refint\GCUnit2Lab2.dll
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.pdb
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\GCUnit2Lab2.genruntimeconfig.cache
+C:\Users\12489\Repository\GC\Unit2Lab\GCUnit2Lab2\GCUnit2Lab2\obj\Debug\net6.0\ref\GCUnit2Lab2.dll
